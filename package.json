@@ -6,9 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
+  "dependencies": {
     "eslint": ">= 3",
-    "eslint-config-standard": ">= 5"
+    "eslint-config-standard": ">= 5",
+    "eslint-config-standard-jsx": ">= 1",
+    "eslint-config-standard-react": ">= 2",
+    "eslint-plugin-promise": ">= 1",
+    "eslint-plugin-react": ">= 5",
+    "eslint-plugin-standard": ">= 1"
   },
   "keywords": [
     "eslint",
