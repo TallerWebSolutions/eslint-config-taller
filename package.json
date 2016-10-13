@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-config-standard": ">= 5"
+  },
   "keywords": [
     "eslint",
     "config",
