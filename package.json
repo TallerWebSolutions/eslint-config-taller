@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-taller",
+  "version": "1.0.0",
+  "description": "Taller ESLint shareable config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "",
+  "license": "MIT"
+}
