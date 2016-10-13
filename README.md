@@ -1,3 +1,3 @@
-# Taller ESLint shareable config
+# Taller ESLint shareable configs
 
 Default eslint configuration used on Taller projects.
