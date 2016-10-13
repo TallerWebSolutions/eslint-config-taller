@@ -1,16 +1,18 @@
 {
-  env: { es6: true },
-  parser: "babel-eslint",
-  extends: [ "standard" ],
-  globals: {
-    describe: false,
-    it: false,
-    expect: false,
-    beforeEach: false,
-    document: false,
-    window: false
+  "env": {
+    "es6": true
   },
-  rules: {
+  "parser": "babel-eslint",
+  "extends": [ "standard" ],
+  "globals": {
+    "describe": false,
+    "it": false,
+    "expect": false,
+    "beforeEach": false,
+    "document": false,
+    "window": false
+  },
+  "rules": {
     "object-curly-spacing": [ "error", "always" ],
     "comma-dangle": 0,
     "no-throw-literal": 1,
