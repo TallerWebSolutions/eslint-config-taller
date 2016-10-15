@@ -10,6 +10,9 @@ module.exports = {
     "it": false,
     "expect": false,
     "beforeEach": false,
+    "afterEach": false,
+    "beforeAll": false,
+    "afterAll": false,
     "document": false,
     "window": false
   },

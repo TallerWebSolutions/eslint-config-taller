@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-taller",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Taller ESLint shareable config.",
   "main": "index.js",
   "scripts": {
