@@ -6,7 +6,7 @@ module.exports = {
     "jest": false
   },
   "rules": {
-    "react/wrap-multilines": 2,
+    "react/jsx-wrap-multilines": 2,
     "react/jsx-uses-react": 1,
     "react/jsx-no-undef": 2,
     "react/jsx-sort-props": 0,

@@ -1,12 +1,13 @@
 {
   "name": "eslint-config-taller",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Taller ESLint shareable config.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "babel-eslint": "^7.1.0",
     "eslint": ">= 3",
     "eslint-config-standard": ">= 5",
     "eslint-config-standard-jsx": ">= 1",
