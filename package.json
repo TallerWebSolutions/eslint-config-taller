@@ -1,11 +1,19 @@
 {
   "name": "eslint-config-taller",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Taller ESLint shareable config.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TallerWebSolutions/eslint-config-taller.git"
   },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig"
+  ],
+  "main": "index.js",
   "dependencies": {
     "babel-eslint": "^7.1.0",
     "eslint": ">= 3",
@@ -16,11 +24,12 @@
     "eslint-plugin-react": ">= 5",
     "eslint-plugin-standard": ">= 1"
   },
-  "keywords": [
-    "eslint",
-    "config",
-    "eslintconfig"
-  ],
-  "author": "",
-  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/TallerWebSolutions/eslint-config-taller/issues"
+  },
+  "homepage": "https://github.com/TallerWebSolutions/eslint-config-taller#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
