@@ -1,4 +1,3 @@
-/* eslint-disable quotes */
 module.exports = {
   "env": {
     "es6": true

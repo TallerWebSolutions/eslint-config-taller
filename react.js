@@ -1,4 +1,3 @@
-/* eslint-disable quotes */
 module.exports = {
   "plugins": [ "react" ],
   "extends": [ "taller", "standard-react" ],
