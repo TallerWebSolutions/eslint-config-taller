@@ -31,6 +31,7 @@ module.exports = {
     "no-sync": 1,
     "no-mixed-requires": [ 1, false ],
     "no-unsafe-finally": 0,
-    "no-useless-computed-key": 0
+    "no-useless-computed-key": 0,
+    "no-console": 2,
   }
 }
