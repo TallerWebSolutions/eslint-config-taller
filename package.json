@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-taller",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Taller ESLint shareable config.",
   "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
   "license": "MIT",
