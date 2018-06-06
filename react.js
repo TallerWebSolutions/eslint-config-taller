@@ -10,6 +10,12 @@ module.exports = {
     'react/jsx-no-undef': 2,
     'react/jsx-sort-props': 0,
     'react/jsx-sort-prop-types': 0,
-    'react/jsx-curly-spacing': ['error', 'always'],
+    'react/jsx-curly-spacing': [
+      2,
+      {
+        when: 'always',
+        children: true,
+      },
+    ],
   },
 }
